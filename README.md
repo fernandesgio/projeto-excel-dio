@@ -101,18 +101,6 @@ Os dados são **fictícios**, gerados de forma aleatória com seed fixo (`random
 
 ---
 
-## 📈 Gráficos do Dashboard
-
-| Receita por Plano | Evolução Mensal |
-|---|---|
-| ![Receita por Plano](images/grafico_plano.png) | ![Evolução Mensal](images/grafico_mensal.png) |
-
-| Assinaturas por País | Receita por Duração |
-|---|---|
-| ![Por País](images/grafico_pais.png) | ![Por Duração](images/grafico_duracao.png) |
-
----
-
 ## 🚀 Como Reproduzir
 
 ### Pré-requisitos
